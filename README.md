@@ -6,11 +6,6 @@ Este repositório contém todo o material de estudo sobre **Programação Orient
 
 O material foi organizado de forma progressiva, para ajudar você a entender cada conceito passo a passo:
 
-1. **Introdução à Programação Orientada a Objetos**
-   - O que é Orientação a Objetos?
-   - Vantagens da POO
-   - Diferença entre programação procedural e orientada a objetos
-
 2. **Classes e Objetos**
    - Definição de classe
    - Instância de objetos
